@@ -4,4 +4,4 @@ The rnotebook files containing the rcode and outputs are listed as files in the 
 The Exploratory Data Analysis and Formal Analysis Portions were split into 2 files for ease of 
 reading.
 
-Thank you for reading!
+Thank you!
